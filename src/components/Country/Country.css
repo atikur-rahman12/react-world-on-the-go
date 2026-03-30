@@ -1,0 +1,35 @@
+.country{
+    border: 1px solid salmon;
+    margin: 20px;
+    padding: 20px;
+    border-radius: 10px;
+}
+
+.country-visited {
+    background-color: aqua;
+    color: black;
+}
+
+.country img{
+    max-width: 290px;
+    /* margin-left: 20px; */
+}
+
+.btn {
+    padding: 7px;
+    background-color: blue;
+    border-color: blue;
+    font: bold;
+    cursor: pointer;
+    border-radius: 30px;
+    margin-right: 10px;
+}
+
+.btn2 {
+    padding: 7px;
+    background-color: orangered;
+    border-color: orangered;
+    font: bold;
+    cursor: pointer;
+    border-radius: 30px;
+}
